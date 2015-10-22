@@ -1,4 +1,5 @@
 #include "sdt.h"
+// пункт 2.5.2
 int main()
 {
     cout<<"enter a b\n";
