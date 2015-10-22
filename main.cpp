@@ -9,4 +9,5 @@ int main()
     cout<<"1.5.2";
     cout<<a-b;
     cout<<a*b;
+    cout<<a/b;
 }
